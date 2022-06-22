@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feryanuar24
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in web programing
+- 🌱 I’m currently learning HTML, CSS, JS, and PHP
 - 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me? Email: feryanuar24@gmail.com
 
