@@ -8,7 +8,7 @@ Hello and welcome to my GitHub page! Self-motivated Web Developer aspiring to pr
 <!-- - 🔭 I’m currently working on [Your Current Project](https://link-to-your-project.com) -->
 - 🌱 I'm currently studying frontend related technologies
 - 💬 Ask me about **PHP, JavaScript, Laravel, React JS, OOP, MySQL**
-- 📫 How to reach me: (mailto:feryanuar24@gmail.com) or (https://www.linkedin.com/in/fery-anuar/)
+- 📫 How to reach me: [feryanuar24@gmail.com](mailto:feryanuar24@gmail.com) or [linkedin.com/in/fery-anuar](https://www.linkedin.com/in/fery-anuar/)
 - ⚡ Fun fact: I work best in calm and quiet environments, but I'm always ready to adapt and get comfortable with new surroundings or challenges!
 
 ## 🛠️ Skills & Tools
@@ -38,9 +38,9 @@ Hello and welcome to my GitHub page! Self-motivated Web Developer aspiring to pr
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=feryanuar24&show_icons=true&theme=radical)
 
 ## 💡 Top Projects
-- 🔗 LPM Unsika(https://github.com/feryanuar24/lpmunsika) - A dynamic news portal providing up-to-date information about Karawang and campus life, featuring responsive design and user-friendly navigation.
-- 🔗 DSS Water Qulity(https://github.com/feryanuar24/dss-water-quality) - A decision support system that evaluates river water quality in Karawang using the Fuzzy Tsukamoto method for precise, data-driven analysis.
-- 🔗 My Portofolio(https://github.com/feryanuar24/react-porto) - A personal portfolio showcasing my skills, projects, and achievements, built with React.js for a modern and interactive user experience.
+- 🔗 [LPM Unsika](https://github.com/feryanuar24/lpmunsika) - A dynamic news portal providing up-to-date information about Karawang and campus life, featuring responsive design and user-friendly navigation.
+- 🔗 [DSS Water Qulity](https://github.com/feryanuar24/dss-water-quality) - A decision support system that evaluates river water quality in Karawang using the Fuzzy Tsukamoto method for precise, data-driven analysis.
+- 🔗 [My Portofolio](https://github.com/feryanuar24/react-porto) - A personal portfolio showcasing my skills, projects, and achievements, built with React.js for a modern and interactive user experience.
 
 ---
 
