@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fery Anuar!
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNvZnh3dTVwbjF1eTJmNmRqaDM5NDhycGdtYzV6M3R2ZDg0bG0yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif" width="30">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNvZnh3dTVwbjF1eTJmNmRqaDM5NDhycGdtYzV6M3R2ZDg0bG0yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif">
 
 Hello and welcome to my GitHub page! Self-motivated Web Developer aspiring to provide elegant high-performance solutions for complex web applications. I enjoy innovation, thinking and creating new products and passionate about keeping up with latest technologies and fixing issues.
 
