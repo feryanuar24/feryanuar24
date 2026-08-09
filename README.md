@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/H-2-Fhx09eEAAAAd/sawamura-eijun-eijun.gif" width="150">
+  <img src="https://media1.tenor.com/m/H-2-Fhx09eEAAAAd/sawamura-eijun-eijun.gif" width="500">
 
   <h1>Hi 👋, I'm Fery Anuar</h1>
   
@@ -24,7 +24,6 @@ This repository space is a reflection of my engineering journey. Rather than jus
 ### 🎨 Frontend
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
